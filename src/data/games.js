@@ -1,0 +1,44 @@
+export let games=[
+    {
+     id:1,
+     name:"LOL",
+     unitPrice:10,
+     type:"arcade"
+    },
+    {
+    id:2,
+    name:"LOL",
+    unitPrice:10,
+    type:"arcade"
+    },
+    {
+    id:3,
+    name:"MLBB",
+    unitPrice:10,
+    type:"arcade"
+    },
+    {
+    id:4,
+    name:"PUBG",
+    unitPrice:10,
+    type:"strategy"
+    },
+    {
+    id:5,
+    name:"CS",
+    unitPrice:10,
+    type:"strategies"
+    },
+    {
+    id:6,
+    name:"CS GO",
+    unitPrice:10,
+    type:"strategy"
+    },
+    {
+    id:7,
+    name:"MLBB",
+    unitPrice:10,
+    type:"arcade"
+    }
+]
